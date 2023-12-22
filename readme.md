@@ -19,7 +19,7 @@ External Resources Optimization
 The use of alt tags for images (like alt="VIVACOM Лого" and others in the body) improves accessibility and provides context to search engines, contributing to image search optimization.
 Internal Linking and Navigation
 
-6.The navigation structure, as seen in the body, uses anchor tags (<a href="#">) with relevant keywords. This internal linking strategy helps distribute page authority and ranking power throughout the site.
+6.The navigation structure, as seen in the body, uses anchor tags with relevant keywords. This internal linking strategy helps distribute page authority and ranking power throughout the site.
 
 7.Social Media Integration
 The presence of social media links in the footer indicates integration with social platforms, which can aid in enhancing the site's online presence and visibility.
